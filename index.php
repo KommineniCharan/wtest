@@ -22,7 +22,7 @@
 
 <section class="about-three-bg section-lg about-section-lg-custom pbmit-bg-color-white custom-contact-margin about-section-bg">
 <div class="container">
-<div class="pb-5">
+<div class="pb-5 hl">
 <div class="row ">
 <div class="col-md-6 col-xl-6">
 <img class="image-width-custom abtimg" src="images/home-about-one.jpg" alt="">
